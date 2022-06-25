@@ -10,7 +10,8 @@ border-width: 5px;
 width: 10%;}
 body{background-color: #F0F8FF;}
 .whatup:hover {background-color: red;}
-
+.whatup{width: 100px;
+height: 100px;}
 html, body {
     height: 100%;
 }
